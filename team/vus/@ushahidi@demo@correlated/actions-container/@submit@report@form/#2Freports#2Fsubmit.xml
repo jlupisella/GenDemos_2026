@@ -1,0 +1,424 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/reports/submit"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@ushahidi@demo@correlated/%resources%/recorded-artifacts/d7b3b98c-716a-4a99-ab17-e9352da21b34.zip"
+    slaProfileEnabled="true" slaProfileName="SLA_1" thinkTime="2833"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="d7b3b98c-716a-4a99-ab17-e9352da21b34">
+    <embedded-action>ee4b3aef-0af5-4fef-8193-f56bfc5702c9</embedded-action>
+    <embedded-action>c8941d3b-907b-4ca0-a6ed-c24e1441fb11</embedded-action>
+    <embedded-action>5a738db7-c535-4096-bc2d-eb73ed3dea53</embedded-action>
+    <embedded-action>99d70f59-391a-4999-ace8-b4fcda059b47</embedded-action>
+    <embedded-action>51ccf59e-17fa-4ba9-a366-f401af616eae</embedded-action>
+    <embedded-action>e11d2474-b185-4efb-80a3-f388d83fc6d9</embedded-action>
+    <embedded-action>67944346-fe27-4017-8166-bf305359840d</embedded-action>
+    <embedded-action>4399cbc5-bb3f-46e6-9897-9d2443fea944</embedded-action>
+    <embedded-action>ac4650e3-8a60-4c2d-bb15-fadc6474a37b</embedded-action>
+    <embedded-action>fcab824f-0a23-477a-b2ed-768d87813f7e</embedded-action>
+    <embedded-action>4cf9c727-d239-4de1-b1d1-3e031b4f0850</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/reports/submit" path="/reports/submit"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@ushahidi@demo@correlated/%resources%/recorded-artifacts/d7b3b98c-716a-4a99-ab17-e9352da21b34.zip"
+    recordedResponseCode="200" responseSize="51887"
+    serverUid="ushahidi.apps.neotys.com" slaProfileEnabled="true"
+    slaProfileName="SLA_1" uid="ee4b3aef-0af5-4fef-8193-f56bfc5702c9" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_5e4afe5e-75a8-4a1b-964d-293c2955d67d.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_5e4afe5e-75a8-4a1b-964d-293c2955d67d.txt</requestContentFileDescription>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.5"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="ushahidi=0jq4ofaqj9u3mphvsoo5troml6"/>
+    <header name="Host" value="ushahidi.apps.neotys.com"/>
+    <header name="Referer" value="https://ushahidi.apps.neotys.com/"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 01 Oct 2021 15:36:03 GMT&#xd;
+Server: Apache&#xd;
+Expires: Thu, 19 Nov 1981 08:52:00 GMT&#xd;
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0&#xd;
+Pragma: no-cache&#xd;
+Set-Cookie: ushahidi=0jq4ofaqj9u3mphvsoo5troml6; expires=Fri, 01-Oct-2021 17:36:03 GMT; Max-Age=7200; path=/; httponly&#xd;
+Keep-Alive: timeout=5, max=100&#xd;
+Connection: Keep-Alive&#xd;
+Transfer-Encoding: chunked&#xd;
+Content-Type: text/html; charset=UTF-8</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    eTag="&quot;a2e-57b3a92287d80&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 22 Nov 2018 05:59:34 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/css/jquery.treeview.css"
+    path="/media/css/jquery.treeview.css" postType="2"
+    recordedArtifactZipFileName="team/vus/@ushahidi@demo@correlated/%resources%/recorded-artifacts/d7b3b98c-716a-4a99-ab17-e9352da21b34.zip"
+    recordedResponseCode="200" responseSize="2606"
+    serverUid="ushahidi.apps.neotys.com" slaProfileEnabled="true"
+    slaProfileName="SLA_1" uid="c8941d3b-907b-4ca0-a6ed-c24e1441fb11" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_f99aaa98-1892-4802-a06f-1f7a67c5152d.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_f99aaa98-1892-4802-a06f-1f7a67c5152d.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="m"
+        recordRawValue="1542866374" separator="=" value="1542866374" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name=""
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.5"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="ushahidi=0jq4ofaqj9u3mphvsoo5troml6"/>
+    <header name="Host" value="ushahidi.apps.neotys.com"/>
+    <header name="Referer" value="https://ushahidi.apps.neotys.com/reports/submit"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 01 Oct 2021 15:36:03 GMT&#xd;
+Server: Apache&#xd;
+Last-Modified: Thu, 22 Nov 2018 05:59:34 GMT&#xd;
+ETag: "a2e-57b3a92287d80"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 2606&#xd;
+Keep-Alive: timeout=5, max=100&#xd;
+Connection: Keep-Alive&#xd;
+Content-Type: text/css</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    eTag="&quot;cea-57b3a92287d80&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 22 Nov 2018 05:59:34 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/css/colorpicker.css"
+    path="/media/css/colorpicker.css" postType="2"
+    recordedArtifactZipFileName="team/vus/@ushahidi@demo@correlated/%resources%/recorded-artifacts/d7b3b98c-716a-4a99-ab17-e9352da21b34.zip"
+    recordedResponseCode="200" responseSize="3306"
+    serverUid="ushahidi.apps.neotys.com" slaProfileEnabled="true"
+    slaProfileName="SLA_1" uid="5a738db7-c535-4096-bc2d-eb73ed3dea53" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_0aa54a81-3f78-4711-bbdc-110f2f4330d2.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_0aa54a81-3f78-4711-bbdc-110f2f4330d2.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="m"
+        recordRawValue="1542866374" separator="=" value="1542866374" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name=""
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.5"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="ushahidi=0jq4ofaqj9u3mphvsoo5troml6"/>
+    <header name="Host" value="ushahidi.apps.neotys.com"/>
+    <header name="Referer" value="https://ushahidi.apps.neotys.com/reports/submit"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 01 Oct 2021 15:36:03 GMT&#xd;
+Server: Apache&#xd;
+Last-Modified: Thu, 22 Nov 2018 05:59:34 GMT&#xd;
+ETag: "cea-57b3a92287d80"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 3306&#xd;
+Keep-Alive: timeout=5, max=100&#xd;
+Connection: Keep-Alive&#xd;
+Content-Type: text/css</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;4317-57b3a92287d80&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 22 Nov 2018 05:59:34 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/js/colorpicker.js"
+    path="/media/js/colorpicker.js" postType="2"
+    recordedArtifactZipFileName="team/vus/@ushahidi@demo@correlated/%resources%/recorded-artifacts/d7b3b98c-716a-4a99-ab17-e9352da21b34.zip"
+    recordedResponseCode="200"
+    refererUid="ee4b3aef-0af5-4fef-8193-f56bfc5702c9"
+    responseSize="17175" serverUid="ushahidi.apps.neotys.com"
+    slaProfileEnabled="true" slaProfileName="SLA_1"
+    uid="99d70f59-391a-4999-ace8-b4fcda059b47" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_d278cf7b-9f50-49a2-bc62-2203d3146853</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_d278cf7b-9f50-49a2-bc62-2203d3146853.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="m"
+        recordRawValue="1542866374" separator="=" value="1542866374" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name=""
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.5"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="ushahidi=0jq4ofaqj9u3mphvsoo5troml6"/>
+    <header name="Host" value="ushahidi.apps.neotys.com"/>
+    <header name="Referer" value="https://ushahidi.apps.neotys.com/reports/submit"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 01 Oct 2021 15:36:04 GMT&#xd;
+Server: Apache&#xd;
+Last-Modified: Thu, 22 Nov 2018 05:59:34 GMT&#xd;
+ETag: "4317-57b3a92287d80"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 17175&#xd;
+Keep-Alive: timeout=5, max=100&#xd;
+Connection: Keep-Alive&#xd;
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="10"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;1e9f-57b3a92287d80&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 22 Nov 2018 05:59:34 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/js/jquery.treeview.js"
+    path="/media/js/jquery.treeview.js" postType="2"
+    recordedArtifactZipFileName="team/vus/@ushahidi@demo@correlated/%resources%/recorded-artifacts/d7b3b98c-716a-4a99-ab17-e9352da21b34.zip"
+    recordedResponseCode="200"
+    refererUid="ee4b3aef-0af5-4fef-8193-f56bfc5702c9"
+    responseSize="7839" serverUid="ushahidi.apps.neotys.com"
+    slaProfileEnabled="true" slaProfileName="SLA_1"
+    uid="51ccf59e-17fa-4ba9-a366-f401af616eae" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_e8f69dc2-6712-42db-84fb-936090cb608e</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_e8f69dc2-6712-42db-84fb-936090cb608e.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="m"
+        recordRawValue="1542866374" separator="=" value="1542866374" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name=""
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.5"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="ushahidi=0jq4ofaqj9u3mphvsoo5troml6"/>
+    <header name="Host" value="ushahidi.apps.neotys.com"/>
+    <header name="Referer" value="https://ushahidi.apps.neotys.com/reports/submit"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 01 Oct 2021 15:36:04 GMT&#xd;
+Server: Apache&#xd;
+Last-Modified: Thu, 22 Nov 2018 05:59:34 GMT&#xd;
+ETag: "1e9f-57b3a92287d80"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 7839&#xd;
+Keep-Alive: timeout=5, max=100&#xd;
+Connection: Keep-Alive&#xd;
+Content-Type: application/javascript</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="9"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    eTag="&quot;6e-57b3a92287d80&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 22 Nov 2018 05:59:34 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/img/icon-plus.gif"
+    path="/media/img/icon-plus.gif" postType="2"
+    recordedArtifactZipFileName="team/vus/@ushahidi@demo@correlated/%resources%/recorded-artifacts/d7b3b98c-716a-4a99-ab17-e9352da21b34.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="ushahidi.apps.neotys.com" slaProfileEnabled="true"
+    slaProfileName="SLA_1" uid="e11d2474-b185-4efb-80a3-f388d83fc6d9" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_98b7ad4b-f3ec-49b0-ab36-8f7f1430e662.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_f1438ca4-741c-446d-9bce-1f408114e669.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.5"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="ushahidi=0jq4ofaqj9u3mphvsoo5troml6"/>
+    <header name="Host" value="ushahidi.apps.neotys.com"/>
+    <header name="Referer" value="https://ushahidi.apps.neotys.com/themes/default/css/style.css?m=1542866374&amp;"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 01 Oct 2021 15:36:04 GMT&#xd;
+Server: Apache&#xd;
+Last-Modified: Thu, 22 Nov 2018 05:59:34 GMT&#xd;
+ETag: "6e-57b3a92287d80"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 110&#xd;
+Keep-Alive: timeout=5, max=99&#xd;
+Connection: Keep-Alive&#xd;
+Content-Type: image/gif</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    eTag="&quot;2a1-57b3a92287d80&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 22 Nov 2018 05:59:34 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/img/icon-calendar.gif"
+    path="/media/img/icon-calendar.gif" postType="2"
+    recordedArtifactZipFileName="team/vus/@ushahidi@demo@correlated/%resources%/recorded-artifacts/d7b3b98c-716a-4a99-ab17-e9352da21b34.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="ushahidi.apps.neotys.com" slaProfileEnabled="true"
+    slaProfileName="SLA_1" uid="67944346-fe27-4017-8166-bf305359840d" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_210b4175-7a7f-4d9d-adc6-040f1c9a866d.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_32d39c24-9f2b-4715-b327-99877b8b4a5d.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.5"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="ushahidi=0jq4ofaqj9u3mphvsoo5troml6"/>
+    <header name="Host" value="ushahidi.apps.neotys.com"/>
+    <header name="Referer" value="https://ushahidi.apps.neotys.com/reports/submit"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 01 Oct 2021 15:36:04 GMT&#xd;
+Server: Apache&#xd;
+Last-Modified: Thu, 22 Nov 2018 05:59:34 GMT&#xd;
+ETag: "2a1-57b3a92287d80"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 673&#xd;
+Keep-Alive: timeout=5, max=99&#xd;
+Connection: Keep-Alive&#xd;
+Content-Type: image/gif</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;259-57b3a92287d80&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 22 Nov 2018 05:59:34 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/img/openlayers/marker.png"
+    path="/media/img/openlayers/marker.png" postType="2"
+    recordedArtifactZipFileName="team/vus/@ushahidi@demo@correlated/%resources%/recorded-artifacts/d7b3b98c-716a-4a99-ab17-e9352da21b34.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="ushahidi.apps.neotys.com" slaProfileEnabled="true"
+    slaProfileName="SLA_1" uid="4399cbc5-bb3f-46e6-9897-9d2443fea944" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_96ecebcc-9646-4143-83d4-8b4bd964fc65.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_1efd0e09-01db-4cb5-82cc-d73e104ca64c.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.5"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="ushahidi=0jq4ofaqj9u3mphvsoo5troml6"/>
+    <header name="Host" value="ushahidi.apps.neotys.com"/>
+    <header name="Referer" value="https://ushahidi.apps.neotys.com/reports/submit"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 01 Oct 2021 15:36:04 GMT&#xd;
+Server: Apache&#xd;
+Last-Modified: Thu, 22 Nov 2018 05:59:34 GMT&#xd;
+ETag: "259-57b3a92287d80"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 601&#xd;
+Keep-Alive: timeout=5, max=98&#xd;
+Connection: Keep-Alive&#xd;
+Content-Type: image/png</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    eTag="&quot;7c9-57b3a92287d80&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 22 Nov 2018 05:59:34 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/img/treeview-default-line.gif"
+    path="/media/img/treeview-default-line.gif" postType="2"
+    recordedArtifactZipFileName="team/vus/@ushahidi@demo@correlated/%resources%/recorded-artifacts/d7b3b98c-716a-4a99-ab17-e9352da21b34.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="ushahidi.apps.neotys.com" slaProfileEnabled="true"
+    slaProfileName="SLA_1" uid="ac4650e3-8a60-4c2d-bb15-fadc6474a37b" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_eb13b9d9-45a6-4e9f-9254-f75453ca3361.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_51fec062-b085-439c-b9e7-ba8262b70b04.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.5"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="ushahidi=0jq4ofaqj9u3mphvsoo5troml6"/>
+    <header name="Host" value="ushahidi.apps.neotys.com"/>
+    <header name="Referer" value="https://ushahidi.apps.neotys.com/media/css/jquery.treeview.css?m=1542866374&amp;"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 01 Oct 2021 15:36:04 GMT&#xd;
+Server: Apache&#xd;
+Last-Modified: Thu, 22 Nov 2018 05:59:34 GMT&#xd;
+ETag: "7c9-57b3a92287d80"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 1993&#xd;
+Keep-Alive: timeout=5, max=99&#xd;
+Connection: Keep-Alive&#xd;
+Content-Type: image/gif</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;f3d-57b3a92287d80&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 22 Nov 2018 05:59:34 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/media/img/openlayers/editing_tool_bar.png"
+    path="/media/img/openlayers/editing_tool_bar.png" postType="2"
+    recordedArtifactZipFileName="team/vus/@ushahidi@demo@correlated/%resources%/recorded-artifacts/d7b3b98c-716a-4a99-ab17-e9352da21b34.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="ushahidi.apps.neotys.com" slaProfileEnabled="true"
+    slaProfileName="SLA_1" uid="fcab824f-0a23-477a-b2ed-768d87813f7e" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_f40a3c5f-890a-46a9-a31a-39b227004831.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_991bf737-2cce-4549-a6c3-830c36bb9da3.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.5"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="ushahidi=0jq4ofaqj9u3mphvsoo5troml6"/>
+    <header name="Host" value="ushahidi.apps.neotys.com"/>
+    <header name="Referer" value="https://ushahidi.apps.neotys.com/media/css/openlayers.css?m=1542866374&amp;"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 01 Oct 2021 15:36:04 GMT&#xd;
+Server: Apache&#xd;
+Last-Modified: Thu, 22 Nov 2018 05:59:34 GMT&#xd;
+ETag: "f3d-57b3a92287d80"&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Length: 3901&#xd;
+Keep-Alive: timeout=5, max=99&#xd;
+Connection: Keep-Alive&#xd;
+Content-Type: image/png</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/scheduler" path="/scheduler" postType="2"
+    recordedArtifactZipFileName="team/vus/@ushahidi@demo@correlated/%resources%/recorded-artifacts/d7b3b98c-716a-4a99-ab17-e9352da21b34.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="ushahidi.apps.neotys.com" slaProfileEnabled="true"
+    slaProfileName="SLA_1" uid="4cf9c727-d239-4de1-b1d1-3e031b4f0850" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_0bbe06da-1255-4af7-9ed0-25a600f6fe85.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_f2150ab0-8d9b-442b-bcd3-a094ca129fe0.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.5"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="ushahidi=0jq4ofaqj9u3mphvsoo5troml6"/>
+    <header name="Host" value="ushahidi.apps.neotys.com"/>
+    <header name="Referer" value="https://ushahidi.apps.neotys.com/reports/submit"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Fri, 01 Oct 2021 15:36:04 GMT&#xd;
+Server: Apache&#xd;
+Expires: Wed, 11 Nov 1998 11:11:11 GMT&#xd;
+Cache-Control: must-revalidate&#xd;
+Pragma: no-cache&#xd;
+Set-Cookie: ushahidi=0jq4ofaqj9u3mphvsoo5troml6; expires=Fri, 01-Oct-2021 17:36:04 GMT; Max-Age=7200; path=/; httponly&#xd;
+Content-Length: 49&#xd;
+Keep-Alive: timeout=5, max=97&#xd;
+Connection: Keep-Alive&#xd;
+Content-Type: image/gif</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

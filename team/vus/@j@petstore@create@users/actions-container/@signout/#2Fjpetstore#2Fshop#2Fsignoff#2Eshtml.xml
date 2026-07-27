@@ -1,0 +1,41 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/jpetstore/shop/signoff.shtml"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@j@petstore@create@users/%resources%/recorded-artifacts/07b04793-b176-41b3-be97-58963adf9c02.zip"
+    slaProfileEnabled="false" thinkTime="14519"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="07b04793-b176-41b3-be97-58963adf9c02">
+    <embedded-action>ade27a4f-997b-4bfc-9e4c-0c071bf7b5ec</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html;charset=ISO-8859-1"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/jpetstore/shop/signoff.shtml"
+    path="/jpetstore/shop/signoff.shtml" postType="6"
+    recordedArtifactZipFileName="team/vus/@j@petstore@create@users/%resources%/recorded-artifacts/07b04793-b176-41b3-be97-58963adf9c02.zip"
+    recordedResponseCode="200" responseSize="5954"
+    serverUid="TrainingImage" slaProfileEnabled="false"
+    uid="ade27a4f-997b-4bfc-9e4c-0c071bf7b5ec" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_ae88786a-5ac1-4200-8f65-af421429ce8c.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_ae88786a-5ac1-4200-8f65-af421429ce8c.txt</requestContentFileDescription>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Cookie" value="JSESSIONID=D42DD83521470CDF875FFFAA96BDD3E2"/>
+    <header name="Host" value="3.93.182.231"/>
+    <header name="Proxy-Connection" value="keep-alive"/>
+    <header name="Referer" value="http://3.93.182.231/jpetstore/shop/newAccount.shtml"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 11 Apr 2023 12:49:01 GMT&#xd;
+Server: Apache/2.2.34 (Amazon)&#xd;
+Set-Cookie: JSESSIONID=85C42AE8FE38C162C23D412689FEE20E; Path=/jpetstore; HttpOnly&#xd;
+Content-Length: 5954&#xd;
+Connection: close&#xd;
+Content-Type: text/html;charset=ISO-8859-1</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

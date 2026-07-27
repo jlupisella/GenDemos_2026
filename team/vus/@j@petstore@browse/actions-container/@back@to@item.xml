@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="BackToItem" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="true"
+    slaProfileName="SLA_1" uid="60bb64a1-3069-45d2-bf93-8dcb93e9089e" weightsEnabled="false">
+    <weighted-embedded-action uid="cfabc60c-a088-4c0c-97e1-b6380445939d"/>
+</basic-logical-action-container>

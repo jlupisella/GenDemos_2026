@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Login" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="true"
+    slaProfileName="SLA_1" uid="53f19f1d-8885-4a96-b189-0224b94b7f39" weightsEnabled="false">
+    <weighted-embedded-action uid="4d5a0090-fc9e-4f84-94b6-cb08d211eb6c"/>
+    <weighted-embedded-action uid="a70a5bb4-2486-48a6-92f9-368afada4418"/>
+</basic-logical-action-container>
+<shared-element>53f19f1d-8885-4a96-b189-0224b94b7f39</shared-element>

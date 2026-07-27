@@ -1,0 +1,32 @@
+<virtual-user errorPolicy="DO_NOTHING"
+    failedAssertionPolicy="DO_NOTHING" slaProfileEnabled="false"
+    type="LEGACY" uid="JPetstoreCreateUsers">
+    <init-container element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements executed once when the Virtual User starts.</description>
+    </init-container>
+    <actions-container clearUserIterationDataMode="AUTO"
+        element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements repeated until the Virtual User stops.</description>
+        <weighted-embedded-action uid="9102c2f5-c028-4337-8b66-aedee51c9725"/>
+        <weighted-embedded-action uid="48689b7a-d951-4128-9b5d-2b888e816a9f"/>
+        <weighted-embedded-action uid="a5a0e580-ea0c-4acb-aa52-5811a624dc0c"/>
+        <weighted-embedded-action uid="cd04b0e3-f0f9-43a6-9e53-9d70e72e6a89"/>
+        <weighted-embedded-action uid="a0c8f847-6ae2-4fe7-9a72-b263c7fda48e"/>
+        <weighted-embedded-action uid="04d4b4f2-615f-4f69-8b78-c3fa06140151"/>
+        <weighted-embedded-action uid="c9aa3eeb-cd53-411e-b924-d958dab93cb7"/>
+        <weighted-embedded-action uid="60be03a7-3486-469f-b894-ac7774f0f821"/>
+    </actions-container>
+    <end-container element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements executed before the Virtual User stops.</description>
+    </end-container>
+    <extraJsonData><![CDATA[{}]]></extraJsonData>
+    <thinktime-policy thinkTimeMode="MODE_SIMPLE_THINK_TIME"
+        thinktimeFactorValue="100" thinktimePolicy="0"
+        thinktimeRangeValue="0" thinktimeValue="5000"/>
+</virtual-user>

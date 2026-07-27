@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="RemoveItem" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="true"
+    slaProfileName="SLA2" uid="d4f40f45-ac4e-40dc-8eae-38fafd3db486" weightsEnabled="false">
+    <weighted-embedded-action uid="6132ee08-cda2-4a4e-a246-707d9283de3b"/>
+</basic-logical-action-container>

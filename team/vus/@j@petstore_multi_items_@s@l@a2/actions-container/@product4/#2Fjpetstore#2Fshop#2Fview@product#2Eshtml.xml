@@ -1,0 +1,66 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/jpetstore/shop/viewProduct.shtml"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@j@petstore_multi_items_@s@l@a2/%resources%/recorded-artifacts/788a80cd-5e7e-4c95-b459-a58949cdcdce.zip"
+    slaProfileEnabled="true" slaProfileName="SLA2" thinkTime="11683"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="788a80cd-5e7e-4c95-b459-a58949cdcdce">
+    <embedded-action>3d907d0a-ec6c-4b47-9f2d-4ba037f2213b</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html;charset=ISO-8859-1"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/jpetstore/shop/viewProduct.shtml"
+    path="/jpetstore/shop/viewProduct.shtml" postType="2"
+    recordedArtifactZipFileName="team/vus/@j@petstore_multi_items_@s@l@a2/%resources%/recorded-artifacts/788a80cd-5e7e-4c95-b459-a58949cdcdce.zip"
+    recordedResponseCode="200"
+    refererUid="2c685efe-63fb-4d0c-aa0f-53ada40f34a5"
+    responseSize="3765" serverUid="TrainingImage"
+    slaProfileEnabled="true" slaProfileName="SLA2"
+    uid="3d907d0a-ec6c-4b47-9f2d-4ba037f2213b" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_fa92dee9-3212-460e-acf8-053dbff4ed9e.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_fa92dee9-3212-460e-acf8-053dbff4ed9e.txt</requestContentFileDescription>
+    <variable-extractor assertionOnNoMatch="true"
+        defaultValue="&lt;NOT FOUND>" displayMode="1" endsWithSimple=""
+        extractFromVarNameAdv="" extractFromVarNameSimple=""
+        extractType="0" extractTypeAdv="0" extractTypeSimple="0"
+        matchNumber="1" matchNumberAdv="1" matchNumberSimple="1"
+        name="ExtractedVariable_ItemID" regExp="itemId=(.*?)&quot;"
+        regExpAdv="itemId=(.*?)&quot;" setDefaultValue="true"
+        startsWithSimple="" template="$1$" templateAdv="$1$"
+        uid="a201c733-50ca-43cb-b871-8334ba902dab" xpath=""/>
+    <variable-extractor assertionOnNoMatch="true"
+        defaultValue="&lt;NOT FOUND>" displayMode="1" endsWithSimple=""
+        extractFromVarNameAdv="" extractFromVarNameSimple=""
+        extractType="0" extractTypeAdv="0" extractTypeSimple="0"
+        matchNumber="1" matchNumberAdv="1" matchNumberSimple="1"
+        name="ExtractedVariable_workingItemID"
+        regExp="workingItemId=(.*?)&quot;"
+        regExpAdv="workingItemId=(.*?)&quot;" setDefaultValue="true"
+        startsWithSimple="" template="$1$" templateAdv="$1$"
+        uid="4338a348-3aab-4264-aba7-2c0482265ea8" xpath=""/>
+    <parameter encodeName="true" encodeValue="true" name="productId"
+        recordRawValue="FI-SW-02" separator="="
+        value="${ExtractedVariable_ProductID-1}" valueMode="USE_VALUE"/>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.5"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=53C7A21C99216C32B044D1C81417A958"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="34.228.15.47"/>
+    <header name="Referer" value="http://34.228.15.47/jpetstore/shop/viewCategory.shtml?categoryId=${categoryId_1}&amp;id=${id}"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 23 Mar 2021 18:30:42 GMT&#xd;
+Server: Apache/2.2.34 (Amazon)&#xd;
+Content-Length: 3765&#xd;
+Connection: close&#xd;
+Content-Type: text/html;charset=ISO-8859-1</responseHeaders>
+    <record-html-infos extractorContent="FI-SW-02"
+        extractorOccurence="15" extractorRegExp="false" htmlType="1"/>
+</http-action>

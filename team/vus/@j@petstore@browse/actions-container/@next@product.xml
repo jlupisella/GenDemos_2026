@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="NextProduct" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="true"
+    slaProfileName="SLA_1" uid="2d642333-b22c-426b-a7ec-1c1254fa5482" weightsEnabled="false">
+    <weighted-embedded-action uid="6a2144ff-e0e4-4190-ac07-965be9bf4897"/>
+</basic-logical-action-container>

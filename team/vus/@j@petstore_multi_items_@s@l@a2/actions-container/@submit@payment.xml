@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="SubmitPayment" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="true"
+    slaProfileName="SLA2" uid="f3f5ac91-6488-443f-88c5-28f17bd57fe5" weightsEnabled="false">
+    <weighted-embedded-action uid="79a87eff-552a-4a6c-973e-f0e28adeff84"/>
+</basic-logical-action-container>
