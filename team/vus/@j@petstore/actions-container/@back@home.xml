@@ -1,6 +1,6 @@
 <basic-logical-action-container element-number="1" execution-type="0"
     name="BackHome" pacingEnd="0" pacingMode="MODE_NO_PACING"
-    pacingStart="0" pacingValue="0" slaProfileEnabled="true"
-    slaProfileName="SLA_1" uid="00f1bb53-d603-43ec-bb88-478a42cb5c6e" weightsEnabled="false">
-    <weighted-embedded-action uid="d5a56bcb-2b80-4f98-a2b6-7da4a8c0f9f2"/>
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="4b11263a-60f1-499c-9f6a-b22da39a28a1" weightsEnabled="false">
+    <weighted-embedded-action uid="5133dc19-f0c8-4ecb-b58b-7fc2720e7799"/>
 </basic-logical-action-container>

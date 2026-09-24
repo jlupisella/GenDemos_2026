@@ -1,11 +1,11 @@
 <http-page executeResourcesDynamically="false"
     forceEncodingForDynamicResources="false"
     name="/jpetstore/shop/index.shtml" playRequestsSequentially="false"
-    recordedArtifactZipFileName="team/vus/@j@petstore_@no_@s@l@a/%resources%/recorded-artifacts/54f68970-24b0-4151-a7d3-8397b9ce5bee.zip"
+    recordedArtifactZipFileName="team/vus/@j@petstore_@no_@s@l@a/%resources%/recorded-artifacts/8024ab85-b50c-4c56-8280-49af12942452.zip"
     slaProfileEnabled="false" thinkTime="20603"
     thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
-    thinkTimeRangeStart="" uid="54f68970-24b0-4151-a7d3-8397b9ce5bee">
-    <embedded-action>4d325b81-2090-47db-86b3-d9d4d21f3847</embedded-action>
+    thinkTimeRangeStart="" uid="8024ab85-b50c-4c56-8280-49af12942452">
+    <embedded-action>fee4542a-426d-4269-b740-a7f217505732</embedded-action>
 </http-page>
 <http-action actionType="1" contentType="text/html;charset=ISO-8859-1"
     extractorInjectPathPolicy="2" extractorPathPolicy="1"
@@ -14,12 +14,12 @@
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="GET" name="/jpetstore/shop/index.shtml"
     path="/jpetstore/shop/index.shtml" postType="2"
-    recordedArtifactZipFileName="team/vus/@j@petstore_@no_@s@l@a/%resources%/recorded-artifacts/54f68970-24b0-4151-a7d3-8397b9ce5bee.zip"
+    recordedArtifactZipFileName="team/vus/@j@petstore_@no_@s@l@a/%resources%/recorded-artifacts/8024ab85-b50c-4c56-8280-49af12942452.zip"
     recordedResponseCode="200" recordedResponseTime="36"
     responseSize="7305" serverUid="TrainingImage"
-    slaProfileEnabled="false" uid="4d325b81-2090-47db-86b3-d9d4d21f3847" useKeepAlive="false">
-    <responsePageFileDescription>recorded-responses/res_eb747ffa-b642-458e-a2cf-32423b66c6dc.html</responsePageFileDescription>
-    <requestContentFileDescription>recorded-requests/req_eb747ffa-b642-458e-a2cf-32423b66c6dc.txt</requestContentFileDescription>
+    slaProfileEnabled="false" uid="fee4542a-426d-4269-b740-a7f217505732" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_41158232-ca4d-45eb-95ed-a744efd4bf94.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_41158232-ca4d-45eb-95ed-a744efd4bf94.txt</requestContentFileDescription>
     <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"/>
     <header name="Accept-Encoding" value="gzip, deflate"/>
     <header name="Accept-Language" value="en-US,en;q=0.5"/>

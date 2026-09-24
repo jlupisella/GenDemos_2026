@@ -1,6 +1,6 @@
 <basic-logical-action-container element-number="1" execution-type="0"
     name="Submit" pacingEnd="0" pacingMode="MODE_NO_PACING"
-    pacingStart="0" pacingValue="0" slaProfileEnabled="true"
-    slaProfileName="SLA_1" uid="28eb0b63-6736-4c8c-b4ae-ddca2304db51" weightsEnabled="false">
-    <weighted-embedded-action uid="a17de382-e100-48a6-87f9-09e159f782e6"/>
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="533eecfb-b8dc-4c7c-aeec-c038aaed498f" weightsEnabled="false">
+    <weighted-embedded-action uid="32bea401-08dd-4c5f-ad8e-1221a48cf176"/>
 </basic-logical-action-container>

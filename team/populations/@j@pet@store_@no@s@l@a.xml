@@ -1,5 +1,5 @@
 <population uid="JPetStore_NoSLA">
-    <split cache="1" factor="100.0" virtualUserUid="JPetstore_No_SLA">
+    <split cache="1" factor="100.0" virtualUserUid="JPetstore">
         <browser-profile acceptEncoding="GZIP,DEFLATE,BROTLI"
             connections="6" cookies="true" http2="true" name="browser.recorded"/>
         <wan-emulation-profile

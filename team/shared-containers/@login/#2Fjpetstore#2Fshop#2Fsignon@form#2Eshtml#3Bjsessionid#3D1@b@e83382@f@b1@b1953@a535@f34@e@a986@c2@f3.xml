@@ -22,8 +22,7 @@
     recordedArtifactZipFileName="team/shared-containers/@login/%resources%/recorded-artifacts/4d5a0090-fc9e-4f84-94b6-cb08d211eb6c.zip"
     recordedResponseCode="200" recordedResponseTime="19"
     responseSize="3959" serverUid="TrainingImage"
-    slaProfileEnabled="true" slaProfileName="SLA_1"
-    uid="a6b66f8a-1138-41e3-ab8b-8a1504f4f2fb" useKeepAlive="false">
+    slaProfileEnabled="true" uid="a6b66f8a-1138-41e3-ab8b-8a1504f4f2fb" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_cust_6cd217b8-dbd8-49a1-8c07-b35445ab5144.html</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_cust_b9458b72-d6c0-4b7f-afb3-6b9f6f2b07d2.0.txt</requestContentFileDescription>
     <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"/>
@@ -58,8 +57,7 @@ Content-Type: text/html;charset=ISO-8859-1</responseHeaders>
     recordedArtifactZipFileName="team/shared-containers/@login/%resources%/recorded-artifacts/4d5a0090-fc9e-4f84-94b6-cb08d211eb6c.zip"
     recordedResponseCode="200" recordedResponseTime="48"
     responseSize="1115" serverUid="TrainingImage"
-    slaProfileEnabled="true" slaProfileName="SLA_1"
-    uid="50f11fce-4bee-4e76-8a20-3c7cf3e96f41" useKeepAlive="false">
+    slaProfileEnabled="true" uid="50f11fce-4bee-4e76-8a20-3c7cf3e96f41" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_cust_d0d73fad-d48d-48ac-8bf8-b5a415f4a3b1.gif</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_cust_62c6394b-de28-435c-a271-f78730f4b18a.txt</requestContentFileDescription>
     <header name="Accept" value="image/webp,*/*"/>
@@ -96,8 +94,7 @@ Content-Type: image/gif</responseHeaders>
     recordedArtifactZipFileName="team/shared-containers/@login/%resources%/recorded-artifacts/4d5a0090-fc9e-4f84-94b6-cb08d211eb6c.zip"
     recordedResponseCode="200" recordedResponseTime="48"
     responseSize="636" serverUid="TrainingImage"
-    slaProfileEnabled="true" slaProfileName="SLA_1"
-    uid="11ff304c-e707-48bd-983d-ad657c8c42fa" useKeepAlive="false">
+    slaProfileEnabled="true" uid="11ff304c-e707-48bd-983d-ad657c8c42fa" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_cust_430591af-46e3-4943-8e4d-36ec1eafd23f.gif</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_cust_ef762242-4596-4547-877e-a5d55fbf3541.txt</requestContentFileDescription>
     <header name="Accept" value="image/webp,*/*"/>

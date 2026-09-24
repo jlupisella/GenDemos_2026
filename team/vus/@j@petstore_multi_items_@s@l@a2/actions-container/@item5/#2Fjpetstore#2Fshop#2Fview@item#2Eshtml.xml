@@ -3,7 +3,7 @@
     name="/jpetstore/shop/viewItem.shtml"
     playRequestsSequentially="false"
     recordedArtifactZipFileName="team/vus/@j@petstore_multi_items_@s@l@a2/%resources%/recorded-artifacts/055f4380-9fa8-4433-a49b-b9f823f013e8.zip"
-    slaProfileEnabled="true" slaProfileName="SLA2" thinkTime="19029"
+    slaProfileEnabled="true" thinkTime="19029"
     thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
     thinkTimeRangeStart="" uid="055f4380-9fa8-4433-a49b-b9f823f013e8">
     <embedded-action>924c3852-4185-482c-9c0e-5771e840fbb8</embedded-action>
@@ -20,8 +20,7 @@
     recordedResponseCode="200"
     refererUid="3d907d0a-ec6c-4b47-9f2d-4ba037f2213b"
     responseSize="3866" serverUid="TrainingImage"
-    slaProfileEnabled="true" slaProfileName="SLA2"
-    uid="924c3852-4185-482c-9c0e-5771e840fbb8" useKeepAlive="false">
+    slaProfileEnabled="true" uid="924c3852-4185-482c-9c0e-5771e840fbb8" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_25e2b7ae-27a1-410c-b156-7d04a35e21d6.html</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_25e2b7ae-27a1-410c-b156-7d04a35e21d6.txt</requestContentFileDescription>
     <parameter encodeName="true" encodeValue="true" name="itemId"
@@ -58,7 +57,7 @@ Content-Type: text/html;charset=ISO-8859-1</responseHeaders>
     recordedArtifactZipFileName="team/vus/@j@petstore_multi_items_@s@l@a2/%resources%/recorded-artifacts/055f4380-9fa8-4433-a49b-b9f823f013e8.zip"
     recordedResponseCode="200" responseSize="0"
     serverUid="TrainingImage" slaProfileEnabled="true"
-    slaProfileName="SLA2" uid="1dd83985-c655-49be-8670-dbf4ec8b6d30" useKeepAlive="false">
+    uid="1dd83985-c655-49be-8670-dbf4ec8b6d30" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_1dd83985-c655-49be-8670-dbf4ec8b6d30.gif</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_eb852714-dd92-482f-b5d2-2ce9aba78db8.txt</requestContentFileDescription>
     <header name="Accept" value="image/webp,*/*"/>

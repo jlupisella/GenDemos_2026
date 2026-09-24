@@ -1,6 +1,6 @@
 <basic-logical-action-container element-number="1" execution-type="0"
     name="Continue" pacingEnd="0" pacingMode="MODE_NO_PACING"
-    pacingStart="0" pacingValue="0" slaProfileEnabled="true"
-    slaProfileName="SLA_1" uid="d1f5f3d4-17c8-4f34-b75e-490f41b49bb6" weightsEnabled="false">
-    <weighted-embedded-action uid="879d32a8-cd7d-444f-ac66-8dd5dba0947d"/>
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="c415006f-9639-4469-be9b-d54f02f655c8" weightsEnabled="false">
+    <weighted-embedded-action uid="84691809-f761-404e-8cca-602bd0140226"/>
 </basic-logical-action-container>

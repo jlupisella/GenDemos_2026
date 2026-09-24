@@ -3,7 +3,7 @@
     name="/jpetstore/shop/checkout.shtml"
     playRequestsSequentially="false"
     recordedArtifactZipFileName="team/vus/@j@petstore_@s@l@a2/%resources%/recorded-artifacts/003e8a88-7844-4bf5-9625-98944dedcdfd.zip"
-    slaProfileEnabled="true" slaProfileName="SLA2" thinkTime="10675"
+    slaProfileEnabled="true" thinkTime="10675"
     thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
     thinkTimeRangeStart="" uid="003e8a88-7844-4bf5-9625-98944dedcdfd">
     <embedded-action>15c951fc-83df-4c8a-8843-c10aafc480c1</embedded-action>
@@ -19,8 +19,7 @@
     recordedArtifactZipFileName="team/vus/@j@petstore_@s@l@a2/%resources%/recorded-artifacts/003e8a88-7844-4bf5-9625-98944dedcdfd.zip"
     recordedResponseCode="200" recordedResponseTime="21"
     responseSize="4965" serverUid="TrainingImage"
-    slaProfileEnabled="true" slaProfileName="SLA2"
-    uid="15c951fc-83df-4c8a-8843-c10aafc480c1" useKeepAlive="false">
+    slaProfileEnabled="true" uid="15c951fc-83df-4c8a-8843-c10aafc480c1" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_954313e8-3938-479a-8ef3-e7d62c74a2b8.html</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_954313e8-3938-479a-8ef3-e7d62c74a2b8.txt</requestContentFileDescription>
     <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"/>
@@ -55,8 +54,7 @@ Content-Type: text/html;charset=ISO-8859-1</responseHeaders>
     recordedArtifactZipFileName="team/vus/@j@petstore_@s@l@a2/%resources%/recorded-artifacts/003e8a88-7844-4bf5-9625-98944dedcdfd.zip"
     recordedResponseCode="200" recordedResponseTime="17"
     responseSize="1275" serverUid="TrainingImage"
-    slaProfileEnabled="true" slaProfileName="SLA2"
-    uid="bb92dc49-f889-4802-8ef3-7b053c6cc6c8" useKeepAlive="false">
+    slaProfileEnabled="true" uid="bb92dc49-f889-4802-8ef3-7b053c6cc6c8" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_6ebdf2b6-1369-4549-aef0-9afd01afe4de.gif</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_28f80f21-47d9-4891-9768-677be2adad9c.txt</requestContentFileDescription>
     <header name="Accept" value="image/webp,*/*"/>

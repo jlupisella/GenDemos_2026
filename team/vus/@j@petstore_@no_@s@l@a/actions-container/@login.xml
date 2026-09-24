@@ -1,7 +1,7 @@
 <basic-logical-action-container element-number="1" execution-type="0"
     name="Login" pacingEnd="0" pacingMode="MODE_NO_PACING"
     pacingStart="0" pacingValue="0" slaProfileEnabled="false"
-    uid="d858853b-1049-4569-a16f-c2a6b4626767" weightsEnabled="false">
-    <weighted-embedded-action uid="96b2f7e9-84ad-4bec-a2c4-8be17405c190"/>
-    <weighted-embedded-action uid="66e9551c-39f3-40c3-94b0-eda17c527f11"/>
+    uid="c8f6789b-b09d-477e-b29a-d1e63d6b019f" weightsEnabled="false">
+    <weighted-embedded-action uid="b7e1b0d5-ea94-4ccb-9b4f-b3546284c5d2"/>
+    <weighted-embedded-action uid="7f09da95-fd4a-4aeb-a66d-3eef3a29fcad"/>
 </basic-logical-action-container>

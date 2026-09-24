@@ -1,6 +1,6 @@
 <basic-logical-action-container element-number="1" execution-type="0"
     name="Confirm" pacingEnd="0" pacingMode="MODE_NO_PACING"
-    pacingStart="0" pacingValue="0" slaProfileEnabled="true"
-    slaProfileName="SLA_1" uid="dc51a386-ba3b-4b95-b6f1-df91a235f462" weightsEnabled="false">
-    <weighted-embedded-action uid="d4cc74db-e0dc-4aaf-ae68-5eb229fc7030"/>
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="9704b5e4-0df2-4fd5-9eb5-3092f33b1f90" weightsEnabled="false">
+    <weighted-embedded-action uid="eb253fe8-2e2a-4ff9-b730-4c0cec95db54"/>
 </basic-logical-action-container>

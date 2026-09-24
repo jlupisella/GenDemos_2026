@@ -3,7 +3,7 @@
     name="/jpetstore/shop/viewProduct.shtml"
     playRequestsSequentially="false"
     recordedArtifactZipFileName="team/vus/@j@petstore@browse_@s@l@a2/%resources%/recorded-artifacts/cb05e03a-7af7-419c-9a68-1f2b2a5ebd89.zip"
-    slaProfileEnabled="true" slaProfileName="SLA2" thinkTime="8200"
+    slaProfileEnabled="true" thinkTime="8200"
     thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
     thinkTimeRangeStart="" uid="cb05e03a-7af7-419c-9a68-1f2b2a5ebd89">
     <embedded-action>b5ce2c88-5bee-4c98-9deb-bf4a2ea5e801</embedded-action>
@@ -20,8 +20,7 @@
     recordedResponseCode="200"
     refererUid="04584848-279a-4116-b754-df64d7c7220c"
     responseSize="3946" serverUid="TrainingImage"
-    slaProfileEnabled="true" slaProfileName="SLA2"
-    uid="b5ce2c88-5bee-4c98-9deb-bf4a2ea5e801" useKeepAlive="false">
+    slaProfileEnabled="true" uid="b5ce2c88-5bee-4c98-9deb-bf4a2ea5e801" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_3e516180-2580-478c-b0d3-4d9b5a40adab.html</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_3e516180-2580-478c-b0d3-4d9b5a40adab.txt</requestContentFileDescription>
     <variable-extractor assertionOnNoMatch="true"
@@ -77,7 +76,7 @@ Content-Type: text/html;charset=ISO-8859-1</responseHeaders>
     recordedArtifactZipFileName="team/vus/@j@petstore@browse_@s@l@a2/%resources%/recorded-artifacts/cb05e03a-7af7-419c-9a68-1f2b2a5ebd89.zip"
     recordedResponseCode="200" responseSize="0"
     serverUid="TrainingImage" slaProfileEnabled="true"
-    slaProfileName="SLA2" uid="432932b7-1110-4ff9-b356-dabff3317a55" useKeepAlive="false">
+    uid="432932b7-1110-4ff9-b356-dabff3317a55" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_dc7e1ac7-717c-46c8-9ffb-ca93da620807.gif</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_3db941c4-3a68-411b-8bfd-a6d1093c9035.txt</requestContentFileDescription>
     <header name="Accept" value="image/webp,*/*"/>

@@ -21,8 +21,7 @@
     recordedArtifactZipFileName="team/shared-containers/@login/%resources%/recorded-artifacts/a70a5bb4-2486-48a6-92f9-368afada4418.zip"
     recordedResponseCode="200" recordedResponseTime="39"
     responseSize="7306" serverUid="TrainingImage"
-    slaProfileEnabled="true" slaProfileName="SLA_1"
-    uid="e1da47bb-a706-4adb-896f-2faf9d621264" useKeepAlive="false">
+    slaProfileEnabled="true" uid="e1da47bb-a706-4adb-896f-2faf9d621264" useKeepAlive="false">
     <binaryPostContentBase64><![CDATA[dXNlcm5hbWU9ajJlZSZwYXNzd29yZD0ke0F1dG9QYXNzd29yZF8yfSZ4PTUyJnk9MTM=]]></binaryPostContentBase64>
     <responsePageFileDescription>recorded-responses/res_cust_a893581d-f990-47b0-aa63-3f1ea9af6286.html</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_cust_92218379-3c30-4307-a230-5629f6c61d5e.0.txt</requestContentFileDescription>
@@ -88,8 +87,7 @@ Content-Type: text/html;charset=ISO-8859-1</responseHeaders>
     recordedArtifactZipFileName="team/shared-containers/@login/%resources%/recorded-artifacts/a70a5bb4-2486-48a6-92f9-368afada4418.zip"
     recordedResponseCode="200" recordedResponseTime="50"
     responseSize="290" serverUid="TrainingImage"
-    slaProfileEnabled="true" slaProfileName="SLA_1"
-    uid="23bcb828-f77a-4838-af77-d5502ccc60e4" useKeepAlive="false">
+    slaProfileEnabled="true" uid="23bcb828-f77a-4838-af77-d5502ccc60e4" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_cust_44cf7c63-78ac-4d5a-97a1-4846ed00b887.gif</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_cust_56f1af88-2f30-468a-aeb1-8a4b93b6afbc.txt</requestContentFileDescription>
     <header name="Accept" value="image/webp,*/*"/>
@@ -126,8 +124,7 @@ Content-Type: image/gif</responseHeaders>
     recordedArtifactZipFileName="team/shared-containers/@login/%resources%/recorded-artifacts/a70a5bb4-2486-48a6-92f9-368afada4418.zip"
     recordedResponseCode="200" recordedResponseTime="50"
     responseSize="6161" serverUid="TrainingImage"
-    slaProfileEnabled="true" slaProfileName="SLA_1"
-    uid="ea28216a-f680-452c-bcc6-bb625a34f57f" useKeepAlive="false">
+    slaProfileEnabled="true" uid="ea28216a-f680-452c-bcc6-bb625a34f57f" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_cust_460280b3-499f-423a-b097-9be9c58a380d.gif</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_cust_c97c777a-b388-4fda-8dc6-4b7ca545415b.txt</requestContentFileDescription>
     <header name="Accept" value="image/webp,*/*"/>
@@ -164,8 +161,7 @@ Content-Type: image/gif</responseHeaders>
     recordedArtifactZipFileName="team/shared-containers/@login/%resources%/recorded-artifacts/a70a5bb4-2486-48a6-92f9-368afada4418.zip"
     recordedResponseCode="200" recordedResponseTime="48"
     responseSize="455" serverUid="TrainingImage"
-    slaProfileEnabled="true" slaProfileName="SLA_1"
-    uid="57dd856e-1695-465a-b6b0-27b68ffa63ca" useKeepAlive="false">
+    slaProfileEnabled="true" uid="57dd856e-1695-465a-b6b0-27b68ffa63ca" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_cust_e6c6f47b-cd9c-41ce-a087-6f23fcd22b1a.gif</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_cust_23881202-27a4-4a85-8fca-55bd92319250.txt</requestContentFileDescription>
     <header name="Accept" value="image/webp,*/*"/>

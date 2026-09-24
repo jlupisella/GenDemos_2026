@@ -2,12 +2,12 @@
     forceEncodingForDynamicResources="false"
     name="/jpetstore/shop/viewItem.shtml"
     playRequestsSequentially="false"
-    recordedArtifactZipFileName="team/vus/@j@petstore_@no_@s@l@a/%resources%/recorded-artifacts/bc4f6900-7f66-430d-9ec6-b81db38726e7.zip"
+    recordedArtifactZipFileName="team/vus/@j@petstore_@no_@s@l@a/%resources%/recorded-artifacts/71e2615a-3193-4af7-8b6e-8aeb3df003d4.zip"
     slaProfileEnabled="false" thinkTime="6927"
     thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
-    thinkTimeRangeStart="" uid="bc4f6900-7f66-430d-9ec6-b81db38726e7">
-    <embedded-action>1a061e1a-5adc-4677-9627-ba57e91ef6ca</embedded-action>
-    <embedded-action>47f2d178-b025-4459-baff-8b059b24e7db</embedded-action>
+    thinkTimeRangeStart="" uid="71e2615a-3193-4af7-8b6e-8aeb3df003d4">
+    <embedded-action>d660202a-dc0b-4eb7-93e2-09faa2d16942</embedded-action>
+    <embedded-action>9dee0db9-8c13-4b18-97de-0ce4dc9d1900</embedded-action>
 </http-page>
 <http-action actionType="1" contentType="text/html;charset=ISO-8859-1"
     extractorInjectPathPolicy="2" extractorPathPolicy="1"
@@ -16,13 +16,13 @@
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="GET" name="/jpetstore/shop/viewItem.shtml"
     path="/jpetstore/shop/viewItem.shtml" postType="2"
-    recordedArtifactZipFileName="team/vus/@j@petstore_@no_@s@l@a/%resources%/recorded-artifacts/bc4f6900-7f66-430d-9ec6-b81db38726e7.zip"
+    recordedArtifactZipFileName="team/vus/@j@petstore_@no_@s@l@a/%resources%/recorded-artifacts/71e2615a-3193-4af7-8b6e-8aeb3df003d4.zip"
     recordedResponseCode="200" recordedResponseTime="54"
-    refererUid="f0e63950-fafa-4018-a0d3-639f688cbb2d"
+    refererUid="a910fcc2-d36a-448c-8d53-49434c68795a"
     responseSize="4611" serverUid="TrainingImage"
-    slaProfileEnabled="false" uid="1a061e1a-5adc-4677-9627-ba57e91ef6ca" useKeepAlive="false">
-    <responsePageFileDescription>recorded-responses/res_50b20923-89bb-40b0-99de-3d848cfb3358.html</responsePageFileDescription>
-    <requestContentFileDescription>recorded-requests/req_50b20923-89bb-40b0-99de-3d848cfb3358.txt</requestContentFileDescription>
+    slaProfileEnabled="false" uid="d660202a-dc0b-4eb7-93e2-09faa2d16942" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_521929d3-8eb8-46f7-9c85-104dd1f0aa3e.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_521929d3-8eb8-46f7-9c85-104dd1f0aa3e.txt</requestContentFileDescription>
     <parameter encodeName="true" encodeValue="true" name="itemId"
         recordRawValue="EST-6" separator="="
         value="${ExtractedVariable_ItemID}" valueMode="USE_VALUE"/>
@@ -55,12 +55,11 @@ Content-Type: text/html;charset=ISO-8859-1</responseHeaders>
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="GET" name="/jpetstore/images/dog2.gif"
     path="/jpetstore/images/dog2.gif" postType="2"
-    recordedArtifactZipFileName="team/vus/@j@petstore_@no_@s@l@a/%resources%/recorded-artifacts/bc4f6900-7f66-430d-9ec6-b81db38726e7.zip"
+    recordedArtifactZipFileName="team/vus/@j@petstore_@no_@s@l@a/%resources%/recorded-artifacts/71e2615a-3193-4af7-8b6e-8aeb3df003d4.zip"
     recordedResponseCode="200" recordedResponseTime="34"
     responseSize="12309" serverUid="TrainingImage"
-    slaProfileEnabled="false" uid="47f2d178-b025-4459-baff-8b059b24e7db" useKeepAlive="false">
-    <responsePageFileDescription>recorded-responses/res_58aa76b0-68ea-4a01-a200-1467c33ac9cd.gif</responsePageFileDescription>
-    <requestContentFileDescription>recorded-requests/req_8040944b-e581-4008-aaa7-1d6a2ad70787.txt</requestContentFileDescription>
+    slaProfileEnabled="false" uid="9dee0db9-8c13-4b18-97de-0ce4dc9d1900" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_7dc8bb06-7cc6-411b-9f1e-7c65d722aeeb.txt</requestContentFileDescription>
     <header name="Accept" value="image/webp,*/*"/>
     <header name="Accept-Encoding" value="gzip, deflate"/>
     <header name="Accept-Language" value="en-US,en;q=0.5"/>

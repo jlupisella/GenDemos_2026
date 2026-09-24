@@ -3,7 +3,7 @@
     name="/jpetstore/shop/viewItem.shtml"
     playRequestsSequentially="false"
     recordedArtifactZipFileName="team/vus/@j@petstore_multi_items/%resources%/recorded-artifacts/e818bd05-4259-4569-9807-7e3c052127c0.zip"
-    slaProfileEnabled="true" slaProfileName="SLA_1" thinkTime="19029"
+    slaProfileEnabled="true" thinkTime="19029"
     thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
     thinkTimeRangeStart="" uid="e818bd05-4259-4569-9807-7e3c052127c0">
     <embedded-action>1d3b4ce5-1a19-4786-b585-0ceab3888288</embedded-action>
@@ -20,8 +20,7 @@
     recordedResponseCode="200"
     refererUid="3b571ea1-1da0-4519-934b-d00f6fec253d"
     responseSize="3866" serverUid="TrainingImage"
-    slaProfileEnabled="true" slaProfileName="SLA_1"
-    uid="1d3b4ce5-1a19-4786-b585-0ceab3888288" useKeepAlive="false">
+    slaProfileEnabled="true" uid="1d3b4ce5-1a19-4786-b585-0ceab3888288" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_5f99adb5-dd5f-4087-b1e3-09023b3458e6.html</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_5f99adb5-dd5f-4087-b1e3-09023b3458e6.txt</requestContentFileDescription>
     <parameter encodeName="true" encodeValue="true" name="itemId"
@@ -58,7 +57,7 @@ Content-Type: text/html;charset=ISO-8859-1</responseHeaders>
     recordedArtifactZipFileName="team/vus/@j@petstore_multi_items/%resources%/recorded-artifacts/e818bd05-4259-4569-9807-7e3c052127c0.zip"
     recordedResponseCode="200" responseSize="0"
     serverUid="TrainingImage" slaProfileEnabled="true"
-    slaProfileName="SLA_1" uid="8c6b42d9-dfa4-41cf-aca3-1a5b9e17620f" useKeepAlive="false">
+    uid="8c6b42d9-dfa4-41cf-aca3-1a5b9e17620f" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_e8bab3d6-3926-450b-9ae6-0552946cae7b.gif</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_ce96262f-6ad1-4e0f-a93a-d0c8e2eb8d76.txt</requestContentFileDescription>
     <header name="Accept" value="image/webp,*/*"/>

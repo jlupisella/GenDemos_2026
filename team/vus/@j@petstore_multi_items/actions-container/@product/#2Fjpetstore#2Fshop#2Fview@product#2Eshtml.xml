@@ -3,7 +3,7 @@
     name="/jpetstore/shop/viewProduct.shtml"
     playRequestsSequentially="false"
     recordedArtifactZipFileName="team/vus/@j@petstore_multi_items/%resources%/recorded-artifacts/d64a4e5e-c14d-4a24-8fc3-c7c99e1a8de6.zip"
-    slaProfileEnabled="true" slaProfileName="SLA_1" thinkTime="8767"
+    slaProfileEnabled="true" thinkTime="8767"
     thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
     thinkTimeRangeStart="" uid="d64a4e5e-c14d-4a24-8fc3-c7c99e1a8de6">
     <embedded-action>3f82d101-4f61-41ec-9092-54d1df719cd4</embedded-action>
@@ -20,8 +20,7 @@
     recordedResponseCode="200"
     refererUid="2bfd3670-269d-4533-9eb8-bd42b28bdddc"
     responseSize="3776" serverUid="TrainingImage"
-    slaProfileEnabled="true" slaProfileName="SLA_1"
-    uid="3f82d101-4f61-41ec-9092-54d1df719cd4" useKeepAlive="false">
+    slaProfileEnabled="true" uid="3f82d101-4f61-41ec-9092-54d1df719cd4" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_16471d89-503c-4bf2-ae71-f3b3b4d8c1b8.html</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_16471d89-503c-4bf2-ae71-f3b3b4d8c1b8.txt</requestContentFileDescription>
     <variable-extractor assertionOnNoMatch="true"
@@ -77,7 +76,7 @@ Content-Type: text/html;charset=ISO-8859-1</responseHeaders>
     recordedArtifactZipFileName="team/vus/@j@petstore_multi_items/%resources%/recorded-artifacts/d64a4e5e-c14d-4a24-8fc3-c7c99e1a8de6.zip"
     recordedResponseCode="200" responseSize="0"
     serverUid="TrainingImage" slaProfileEnabled="true"
-    slaProfileName="SLA_1" uid="d975566e-4c7e-4c0f-9f89-0f9f6e6752db" useKeepAlive="false">
+    uid="d975566e-4c7e-4c0f-9f89-0f9f6e6752db" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_9a516453-9dec-4040-afd1-08f48a3dddd7.gif</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_9a516453-9dec-4040-afd1-08f48a3dddd7.txt</requestContentFileDescription>
     <header name="Accept" value="image/webp,*/*"/>

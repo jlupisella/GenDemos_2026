@@ -1,18 +1,4 @@
 <population uid="JPetstoreVaryBandwith">
-    <split cache="1" factor="40.0" virtualUserUid="JPetstore">
-        <browser-profile acceptEncoding="GZIP,DEFLATE,BROTLI"
-            connections="6" cookies="true" http2="true" name="browser.recorded"/>
-        <wan-emulation-profile averageDownloadBandwidth="6Mbps"
-            averageDownloadLatency="0ms" averageDownloadPacketLoss="0%"
-            averageUploadBandwidth="2Mbps" averageUploadLatency="0ms"
-            averageUploadPacketLoss="0%" downloadBandwidth="10Mbps"
-            downloadLatency="0ms" downloadPacketLoss="0%" isRadio="true"
-            name="WiMAX" poorDownloadBandwidth="3Mbps"
-            poorDownloadLatency="0ms" poorDownloadPacketLoss="0%"
-            poorUploadBandwidth="1Mbps" poorUploadLatency="0ms"
-            poorUploadPacketLoss="1%" signalStrength="GOOD"
-            uploadBandwidth="3Mbps" uploadLatency="0ms" uploadPacketLoss="0%"/>
-    </split>
     <split cache="1" factor="30.0" virtualUserUid="JPetstoreBrowse">
         <browser-profile acceptEncoding="GZIP,DEFLATE,BROTLI"
             connections="6" cookies="true" http2="true" name="browser.recorded"/>

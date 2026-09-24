@@ -2,11 +2,11 @@
     forceEncodingForDynamicResources="false"
     name="/jpetstore/shop/newOrder.shtml"
     playRequestsSequentially="false"
-    recordedArtifactZipFileName="team/vus/@j@petstore_@no_@s@l@a/%resources%/recorded-artifacts/09e7a003-e25f-40d8-a5c8-6c7b37ad5370.zip"
+    recordedArtifactZipFileName="team/vus/@j@petstore_@no_@s@l@a/%resources%/recorded-artifacts/470e44f0-6ac5-43ed-af2a-fe8d009bcc3c.zip"
     slaProfileEnabled="false" thinkTime="14054"
     thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
-    thinkTimeRangeStart="" uid="09e7a003-e25f-40d8-a5c8-6c7b37ad5370">
-    <embedded-action>7f8a6fdd-5a9e-44af-b9ba-920ca8e15ae8</embedded-action>
+    thinkTimeRangeStart="" uid="470e44f0-6ac5-43ed-af2a-fe8d009bcc3c">
+    <embedded-action>90d3b56d-6e78-437c-814e-429ce2e46c21</embedded-action>
 </http-page>
 <http-action actionType="1" contentType="text/html;charset=ISO-8859-1"
     extractorInjectPathPolicy="2" extractorPathPolicy="1"
@@ -15,13 +15,13 @@
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="GET" name="/jpetstore/shop/newOrder.shtml"
     path="/jpetstore/shop/newOrder.shtml" postType="2"
-    recordedArtifactZipFileName="team/vus/@j@petstore_@no_@s@l@a/%resources%/recorded-artifacts/09e7a003-e25f-40d8-a5c8-6c7b37ad5370.zip"
+    recordedArtifactZipFileName="team/vus/@j@petstore_@no_@s@l@a/%resources%/recorded-artifacts/470e44f0-6ac5-43ed-af2a-fe8d009bcc3c.zip"
     recordedResponseCode="200" recordedResponseTime="62"
-    refererUid="52a73734-2f77-4fd7-b5eb-e57a6d2627e1"
+    refererUid="541c57fb-353e-4afc-bfb3-d85739c91292"
     responseSize="6692" serverUid="TrainingImage"
-    slaProfileEnabled="false" uid="7f8a6fdd-5a9e-44af-b9ba-920ca8e15ae8" useKeepAlive="false">
-    <responsePageFileDescription>recorded-responses/res_57539986-f627-499c-9d9a-f96ec70a7247.html</responsePageFileDescription>
-    <requestContentFileDescription>recorded-requests/req_57539986-f627-499c-9d9a-f96ec70a7247.txt</requestContentFileDescription>
+    slaProfileEnabled="false" uid="90d3b56d-6e78-437c-814e-429ce2e46c21" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_68dbd708-4976-424f-84b6-54cae4757222.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_68dbd708-4976-424f-84b6-54cae4757222.txt</requestContentFileDescription>
     <parameter encodeName="true" encodeValue="true" name="confirmed"
         recordRawValue="true" separator="=" value="true" valueMode="USE_VALUE"/>
     <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"/>

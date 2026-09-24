@@ -2,11 +2,11 @@
     forceEncodingForDynamicResources="false"
     name="/jpetstore/shop/newOrder.shtml"
     playRequestsSequentially="false"
-    recordedArtifactZipFileName="team/vus/@j@petstore/%resources%/recorded-artifacts/a17de382-e100-48a6-87f9-09e159f782e6.zip"
+    recordedArtifactZipFileName="team/vus/@j@petstore/%resources%/recorded-artifacts/32bea401-08dd-4c5f-ad8e-1221a48cf176.zip"
     slaProfileEnabled="false" thinkTime="9575"
     thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
-    thinkTimeRangeStart="" uid="a17de382-e100-48a6-87f9-09e159f782e6">
-    <embedded-action>d967238f-d5e0-4a17-9354-97829365e042</embedded-action>
+    thinkTimeRangeStart="" uid="32bea401-08dd-4c5f-ad8e-1221a48cf176">
+    <embedded-action>3baf2a8a-aedb-49db-9a7a-a834c40ffbc2</embedded-action>
 </http-page>
 <http-action actionType="1" contentType="text/html;charset=ISO-8859-1"
     extractorInjectPathPolicy="2" extractorPathPolicy="1"
@@ -16,15 +16,14 @@
     method="POST" name="/jpetstore/shop/newOrder.shtml"
     path="/jpetstore/shop/newOrder.shtml" postCharset="iso-8859-1"
     postType="1"
-    recordedArtifactZipFileName="team/vus/@j@petstore/%resources%/recorded-artifacts/a17de382-e100-48a6-87f9-09e159f782e6.zip"
+    recordedArtifactZipFileName="team/vus/@j@petstore/%resources%/recorded-artifacts/32bea401-08dd-4c5f-ad8e-1221a48cf176.zip"
     recordedResponseCode="200" recordedResponseTime="37"
-    refererUid="21f5b433-227b-44dc-89c3-622e9dd605d9"
+    refererUid="a9f9c446-2df5-4407-aeff-59f4f2fa41e5"
     responseSize="5554" serverUid="TrainingImage"
-    slaProfileEnabled="true" slaProfileName="SLA_1"
-    uid="d967238f-d5e0-4a17-9354-97829365e042" useKeepAlive="false">
+    slaProfileEnabled="false" uid="3baf2a8a-aedb-49db-9a7a-a834c40ffbc2" useKeepAlive="false">
     <binaryPostContentBase64><![CDATA[b3JkZXIuY2FyZFR5cGU9VmlzYSZvcmRlci5jcmVkaXRDYXJkPTk5OSs5OTk5Kzk5OTkrOTk5OSZvcmRlci5leHBpcnlEYXRlPTEyJTJGMDMmb3JkZXIuYmlsbFRvRmlyc3ROYW1lPUFCQyZvcmRlci5iaWxsVG9MYXN0TmFtZT1YWVgmb3JkZXIuYmlsbEFkZHJlc3MxPTkwMStTYW4rQW50b25pbytSb2FkJm9yZGVyLmJpbGxBZGRyZXNzMj1NUytVQ1VQMDItMjA2Jm9yZGVyLmJpbGxDaXR5PVBhbG8rQWx0byZvcmRlci5iaWxsU3RhdGU9Q0Emb3JkZXIuYmlsbFppcD05NDMwMyZvcmRlci5iaWxsQ291bnRyeT1VU0EmeD0zNCZ5PTEw]]></binaryPostContentBase64>
-    <responsePageFileDescription>recorded-responses/res_cust_f7c90fb1-6499-4e34-a44b-be7bbb68eb66.html</responsePageFileDescription>
-    <requestContentFileDescription>recorded-requests/req_cust_947c4755-a196-44be-86bb-45b62112f873.0.txt</requestContentFileDescription>
+    <responsePageFileDescription>recorded-responses/res_082bccdd-bc14-4d82-8e12-8b6464acd202.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_082bccdd-bc14-4d82-8e12-8b6464acd202.txt</requestContentFileDescription>
     <parameter encodeName="true" encodeValue="true"
         name="order.cardType" recordRawValue="Visa" separator="="
         value="Visa" valueMode="USE_VALUE"/>

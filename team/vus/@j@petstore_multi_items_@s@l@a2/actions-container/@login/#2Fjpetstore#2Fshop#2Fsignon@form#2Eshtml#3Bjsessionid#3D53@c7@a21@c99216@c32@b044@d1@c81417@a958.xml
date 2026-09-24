@@ -3,7 +3,7 @@
     name="/jpetstore/shop/signonForm.shtml;jsessionid=53C7A21C99216C32B044D1C81417A958"
     playRequestsSequentially="false"
     recordedArtifactZipFileName="team/vus/@j@petstore_multi_items_@s@l@a2/%resources%/recorded-artifacts/b7120914-2c2d-46eb-9c45-ab51b2fc2251.zip"
-    slaProfileEnabled="true" slaProfileName="SLA2" thinkTime="6290"
+    slaProfileEnabled="true" thinkTime="6290"
     thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
     thinkTimeRangeStart="" uid="b7120914-2c2d-46eb-9c45-ab51b2fc2251">
     <embedded-action>05884f6a-13d3-41f8-b0a3-0ec29e06ce74</embedded-action>
@@ -22,7 +22,7 @@
     recordedArtifactZipFileName="team/vus/@j@petstore_multi_items_@s@l@a2/%resources%/recorded-artifacts/b7120914-2c2d-46eb-9c45-ab51b2fc2251.zip"
     recordedResponseCode="200" responseSize="3183"
     serverUid="TrainingImage" slaProfileEnabled="true"
-    slaProfileName="SLA2" uid="05884f6a-13d3-41f8-b0a3-0ec29e06ce74" useKeepAlive="false">
+    uid="05884f6a-13d3-41f8-b0a3-0ec29e06ce74" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_15b63842-e6af-4a5a-8d16-cdb8bfdf5b57.html</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_15b63842-e6af-4a5a-8d16-cdb8bfdf5b57.txt</requestContentFileDescription>
     <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"/>
@@ -55,7 +55,7 @@ Content-Type: text/html;charset=ISO-8859-1</responseHeaders>
     recordedArtifactZipFileName="team/vus/@j@petstore_multi_items_@s@l@a2/%resources%/recorded-artifacts/b7120914-2c2d-46eb-9c45-ab51b2fc2251.zip"
     recordedResponseCode="200" responseSize="0"
     serverUid="TrainingImage" slaProfileEnabled="true"
-    slaProfileName="SLA2" uid="df258075-bb6f-44ff-8d99-7f5e251b7546" useKeepAlive="false">
+    uid="df258075-bb6f-44ff-8d99-7f5e251b7546" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_df258075-bb6f-44ff-8d99-7f5e251b7546.gif</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_831d5ad6-6923-4afd-90f3-788fbc20b89e.txt</requestContentFileDescription>
     <header name="Accept" value="image/webp,*/*"/>
@@ -90,7 +90,7 @@ Content-Type: image/gif</responseHeaders>
     recordedArtifactZipFileName="team/vus/@j@petstore_multi_items_@s@l@a2/%resources%/recorded-artifacts/b7120914-2c2d-46eb-9c45-ab51b2fc2251.zip"
     recordedResponseCode="200" responseSize="0"
     serverUid="TrainingImage" slaProfileEnabled="true"
-    slaProfileName="SLA2" uid="cf931bbd-c62a-4c4e-af51-01a09f14eac8" useKeepAlive="false">
+    uid="cf931bbd-c62a-4c4e-af51-01a09f14eac8" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_cf931bbd-c62a-4c4e-af51-01a09f14eac8.gif</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_c2f343cd-9e76-428f-add7-6210331bb5ec.txt</requestContentFileDescription>
     <header name="Accept" value="image/webp,*/*"/>

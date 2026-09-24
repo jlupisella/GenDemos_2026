@@ -1,14 +1,14 @@
 <http-page executeResourcesDynamically="false"
     forceEncodingForDynamicResources="false"
     name="/jpetstore/shop/signon.shtml" playRequestsSequentially="false"
-    recordedArtifactZipFileName="team/vus/@j@petstore_@no_@s@l@a/%resources%/recorded-artifacts/66e9551c-39f3-40c3-94b0-eda17c527f11.zip"
+    recordedArtifactZipFileName="team/vus/@j@petstore_@no_@s@l@a/%resources%/recorded-artifacts/7f09da95-fd4a-4aeb-a66d-3eef3a29fcad.zip"
     slaProfileEnabled="false" thinkTime="0"
     thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
-    thinkTimeRangeStart="" uid="66e9551c-39f3-40c3-94b0-eda17c527f11">
-    <embedded-action>b397e7cd-b75c-40c0-bbe5-2e09a7bc3e76</embedded-action>
-    <embedded-action>e401042e-acc1-4890-831d-591f221e1699</embedded-action>
-    <embedded-action>86d7eb89-2391-4406-bac4-42d774813fa1</embedded-action>
-    <embedded-action>8e2cc7a2-ad61-407f-8861-420ece3175c8</embedded-action>
+    thinkTimeRangeStart="" uid="7f09da95-fd4a-4aeb-a66d-3eef3a29fcad">
+    <embedded-action>fca6b762-8fed-4a85-98eb-e079aee84aae</embedded-action>
+    <embedded-action>a8ce08a1-407d-4126-8e9c-130ca3cf2a1a</embedded-action>
+    <embedded-action>c57a6c86-ed68-480f-abe6-0ee89cfaba9c</embedded-action>
+    <embedded-action>12e19bd3-7ce3-4f98-80e8-57de90000eae</embedded-action>
 </http-page>
 <http-action actionType="1" contentType="text/html;charset=ISO-8859-1"
     extractorInjectPathPolicy="2" extractorPathPolicy="1"
@@ -18,13 +18,13 @@
     method="POST" name="/jpetstore/shop/signon.shtml"
     path="/jpetstore/shop/signon.shtml" postCharset="iso-8859-1"
     postType="1"
-    recordedArtifactZipFileName="team/vus/@j@petstore_@no_@s@l@a/%resources%/recorded-artifacts/66e9551c-39f3-40c3-94b0-eda17c527f11.zip"
+    recordedArtifactZipFileName="team/vus/@j@petstore_@no_@s@l@a/%resources%/recorded-artifacts/7f09da95-fd4a-4aeb-a66d-3eef3a29fcad.zip"
     recordedResponseCode="200" recordedResponseTime="39"
     responseSize="7306" serverUid="TrainingImage"
-    slaProfileEnabled="false" uid="b397e7cd-b75c-40c0-bbe5-2e09a7bc3e76" useKeepAlive="false">
+    slaProfileEnabled="false" uid="fca6b762-8fed-4a85-98eb-e079aee84aae" useKeepAlive="false">
     <binaryPostContentBase64><![CDATA[dXNlcm5hbWU9ajJlZSZwYXNzd29yZD0ke0F1dG9QYXNzd29yZF8yfSZ4PTUyJnk9MTM=]]></binaryPostContentBase64>
-    <responsePageFileDescription>recorded-responses/res_9c408e03-d2ef-48c2-82c2-6e2593552812.html</responsePageFileDescription>
-    <requestContentFileDescription>recorded-requests/req_9c408e03-d2ef-48c2-82c2-6e2593552812.txt</requestContentFileDescription>
+    <responsePageFileDescription>recorded-responses/res_92290e72-4a32-4114-937a-9065b449131e.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_92290e72-4a32-4114-937a-9065b449131e.txt</requestContentFileDescription>
     <variable-extractor assertionOnNoMatch="true"
         defaultValue="&lt;NOT FOUND>" displayMode="1" endsWithSimple=""
         extractFromVarNameAdv="" extractFromVarNameSimple=""
@@ -33,7 +33,7 @@
         name="id" regExp="&amp;id=(.*?)&quot;"
         regExpAdv="&amp;id=(.*?)&quot;" setDefaultValue="true"
         startsWithSimple="" template="$1$" templateAdv="$1$"
-        uid="13846503-020f-4d0f-86eb-34bd8833a060" xpath=""/>
+        uid="2a525b5c-1649-489b-963a-76e95e559b1a" xpath=""/>
     <variable-extractor assertionOnNoMatch="true"
         defaultValue="&lt;NOT FOUND>" displayMode="1" endsWithSimple=""
         extractFromVarNameAdv="" extractFromVarNameSimple=""
@@ -42,7 +42,7 @@
         name="categoryId" regExp="categoryId=(.*?)&amp;id=(.*?)&quot;>"
         regExpAdv="categoryId=(.*?)&amp;id=(.*?)&quot;>"
         setDefaultValue="true" startsWithSimple="" template="$1$"
-        templateAdv="$1$" uid="576868ba-4901-4b37-9b23-efc7bae2325a" xpath=""/>
+        templateAdv="$1$" uid="d32794ab-9298-41f7-a237-39dacaae70b8" xpath=""/>
     <parameter encodeName="false" encodeValue="false" name="username"
         recordRawValue="j2ee" separator="=" value="j2ee" valueMode="USE_VALUE"/>
     <parameter encodeName="false" encodeValue="false" name="password"
@@ -83,12 +83,11 @@ Content-Type: text/html;charset=ISO-8859-1</responseHeaders>
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="GET" name="/jpetstore/images/sign-out.gif"
     path="/jpetstore/images/sign-out.gif" postType="2"
-    recordedArtifactZipFileName="team/vus/@j@petstore_@no_@s@l@a/%resources%/recorded-artifacts/66e9551c-39f3-40c3-94b0-eda17c527f11.zip"
+    recordedArtifactZipFileName="team/vus/@j@petstore_@no_@s@l@a/%resources%/recorded-artifacts/7f09da95-fd4a-4aeb-a66d-3eef3a29fcad.zip"
     recordedResponseCode="200" recordedResponseTime="50"
     responseSize="290" serverUid="TrainingImage"
-    slaProfileEnabled="false" uid="e401042e-acc1-4890-831d-591f221e1699" useKeepAlive="false">
-    <responsePageFileDescription>recorded-responses/res_fc634c61-a802-4158-ad6b-4d1e7a94b3f2.gif</responsePageFileDescription>
-    <requestContentFileDescription>recorded-requests/req_a5052a43-25d0-48a7-af64-102e9217ee25.txt</requestContentFileDescription>
+    slaProfileEnabled="false" uid="a8ce08a1-407d-4126-8e9c-130ca3cf2a1a" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_1f230f2a-4df7-42f7-88b9-4a75493b8ca5.txt</requestContentFileDescription>
     <header name="Accept" value="image/webp,*/*"/>
     <header name="Accept-Encoding" value="gzip, deflate"/>
     <header name="Accept-Language" value="en-US,en;q=0.5"/>
@@ -120,12 +119,11 @@ Content-Type: image/gif</responseHeaders>
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="GET" name="/jpetstore/images/banner_dogs.gif"
     path="/jpetstore/images/banner_dogs.gif" postType="2"
-    recordedArtifactZipFileName="team/vus/@j@petstore_@no_@s@l@a/%resources%/recorded-artifacts/66e9551c-39f3-40c3-94b0-eda17c527f11.zip"
+    recordedArtifactZipFileName="team/vus/@j@petstore_@no_@s@l@a/%resources%/recorded-artifacts/7f09da95-fd4a-4aeb-a66d-3eef3a29fcad.zip"
     recordedResponseCode="200" recordedResponseTime="50"
     responseSize="6161" serverUid="TrainingImage"
-    slaProfileEnabled="false" uid="86d7eb89-2391-4406-bac4-42d774813fa1" useKeepAlive="false">
-    <responsePageFileDescription>recorded-responses/res_fb4b9f7d-7eb4-49ad-a416-507403c155e8.gif</responsePageFileDescription>
-    <requestContentFileDescription>recorded-requests/req_515c7b21-7810-4809-a29b-0d4f5ea5c464.txt</requestContentFileDescription>
+    slaProfileEnabled="false" uid="c57a6c86-ed68-480f-abe6-0ee89cfaba9c" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_c899f7ae-91fe-424c-842f-7e0f249e9742.txt</requestContentFileDescription>
     <header name="Accept" value="image/webp,*/*"/>
     <header name="Accept-Encoding" value="gzip, deflate"/>
     <header name="Accept-Language" value="en-US,en;q=0.5"/>
@@ -157,12 +155,11 @@ Content-Type: image/gif</responseHeaders>
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="GET" name="/jpetstore/images/my_account.gif"
     path="/jpetstore/images/my_account.gif" postType="2"
-    recordedArtifactZipFileName="team/vus/@j@petstore_@no_@s@l@a/%resources%/recorded-artifacts/66e9551c-39f3-40c3-94b0-eda17c527f11.zip"
+    recordedArtifactZipFileName="team/vus/@j@petstore_@no_@s@l@a/%resources%/recorded-artifacts/7f09da95-fd4a-4aeb-a66d-3eef3a29fcad.zip"
     recordedResponseCode="200" recordedResponseTime="48"
     responseSize="455" serverUid="TrainingImage"
-    slaProfileEnabled="false" uid="8e2cc7a2-ad61-407f-8861-420ece3175c8" useKeepAlive="false">
-    <responsePageFileDescription>recorded-responses/res_229101d6-5f44-448f-add5-b63280fb157e.gif</responsePageFileDescription>
-    <requestContentFileDescription>recorded-requests/req_24a4e8e1-b93c-421e-949a-3de7788d0553.txt</requestContentFileDescription>
+    slaProfileEnabled="false" uid="12e19bd3-7ce3-4f98-80e8-57de90000eae" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_895de7d7-badf-4cad-8f3c-39ee65029f35.txt</requestContentFileDescription>
     <header name="Accept" value="image/webp,*/*"/>
     <header name="Accept-Encoding" value="gzip, deflate"/>
     <header name="Accept-Language" value="en-US,en;q=0.5"/>
